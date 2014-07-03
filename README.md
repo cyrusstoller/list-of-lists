@@ -10,3 +10,4 @@ A meta list of lists of useful open source projects and developer tools
 - List of languages that compile to JS: https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
 - Font-end Tools: https://github.com/codylindley/frontend-tools
 - Places To Post Your Startup: https://github.com/mmccaff/PlacesToPostYourStartup
+- Static Site Generators: http://staticsitegenerators.net
