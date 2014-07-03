@@ -11,3 +11,16 @@ A meta list of lists of useful open source projects and developer tools
 - Font-end Tools: https://github.com/codylindley/frontend-tools
 - Places To Post Your Startup: https://github.com/mmccaff/PlacesToPostYourStartup
 - Static Site Generators: http://staticsitegenerators.net
+- Frontend development bookmarks: https://github.com/dypsilon/frontend-dev-bookmarks
+- HackerNews Bookmark: https://github.com/praveenhm/HackerNews-Bookmark
+- Landscaping With Front-end Tools: https://github.com/codylindley/frontend-tools
+- Front End Developer Interview Questions: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
+- List of minimalist frameworks: https://github.com/neiesc/ListOfMinimalistFrameworks
+- List of useful things for front-end developers: https://github.com/miripiruni/frontdesk
+- List of useful php libraries: https://github.com/ziadoz/awesome-php
+- List of CS papers: https://github.com/papers-we-love/papers-we-love
+- List of python Github projects: https://github.com/checkcheckzz/python-github-projects
+- List of RSS readers: https://github.com/smithbr/rss-readers-list
+
+Other lists of lists:
+- https://github.com/asciimoo/ListOfGithubLists/
