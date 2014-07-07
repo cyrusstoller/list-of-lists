@@ -21,6 +21,7 @@ A meta list of lists of useful open source projects and developer tools
 - List of CS papers: https://github.com/papers-we-love/papers-we-love
 - List of python Github projects: https://github.com/checkcheckzz/python-github-projects
 - List of RSS readers: https://github.com/smithbr/rss-readers-list
+- List of Go projects: https://code.google.com/p/go-wiki/wiki/Projects
 
 Other lists of lists:
 - https://github.com/asciimoo/ListOfGithubLists/
