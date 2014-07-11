@@ -23,6 +23,7 @@ A meta list of lists of useful open source projects and developer tools
 - List of RSS readers: https://github.com/smithbr/rss-readers-list
 - List of Go projects: https://code.google.com/p/go-wiki/wiki/Projects
 - Database of JS Librariers, Frameworks, and Plugins - http://www.jsdb.io/
+- Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 
 Other lists of lists:
 - https://github.com/asciimoo/ListOfGithubLists/
