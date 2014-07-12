@@ -27,3 +27,4 @@ A meta list of lists of useful open source projects and developer tools
 
 Other lists of lists:
 - https://github.com/asciimoo/ListOfGithubLists/
+- https://github.com/jnv/lists
