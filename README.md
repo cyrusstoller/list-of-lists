@@ -25,6 +25,7 @@ A meta list of lists of useful open source projects and developer tools
 - Database of JS Librariers, Frameworks, and Plugins - http://www.jsdb.io/
 - Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 - List of Tools of the Trade - https://github.com/cjbarber/ToolsOfTheTrade
+- List of Job queues, message queues and other queues - http://queues.io/
 
 Other lists of lists:
 - https://github.com/asciimoo/ListOfGithubLists/
