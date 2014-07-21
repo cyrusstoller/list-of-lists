@@ -26,6 +26,7 @@ A meta list of lists of useful open source projects and developer tools
 - Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 - List of Tools of the Trade - https://github.com/cjbarber/ToolsOfTheTrade
 - List of Job queues, message queues and other queues - http://queues.io/
+- List of Game Development resources - https://github.com/ellisonleao/magictools
 
 Other lists of lists:
 - https://github.com/asciimoo/ListOfGithubLists/
