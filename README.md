@@ -35,6 +35,7 @@ A meta list of lists of useful open source projects and developer tools
 - List of CS papers: https://github.com/papers-we-love/papers-we-love
 - Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 - List of Game Development resources - https://github.com/ellisonleao/magictools
+- List of Web Business Models - https://gist.github.com/ndarville/4295324
 
 ## Other lists of lists
 
