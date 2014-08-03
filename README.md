@@ -22,6 +22,7 @@ A meta list of lists of useful open source projects and developer tools
 - List of python Github projects: https://github.com/checkcheckzz/python-github-projects
 - List of Go projects: https://code.google.com/p/go-wiki/wiki/Projects
 - Database of JS Librariers, Frameworks, and Plugins - http://www.jsdb.io/
+- 319 useful Twitter Bootstrap resources - http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
 
 ## Resources
 
