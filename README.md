@@ -22,7 +22,6 @@ A meta list of lists of useful open source projects and developer tools
 - List of python Github projects: https://github.com/checkcheckzz/python-github-projects
 - List of Go projects: https://code.google.com/p/go-wiki/wiki/Projects
 - Database of JS Librariers, Frameworks, and Plugins - http://www.jsdb.io/
-- 319 useful Twitter Bootstrap resources - http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
 
 ## Resources
 
@@ -37,6 +36,8 @@ A meta list of lists of useful open source projects and developer tools
 - Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 - List of Game Development resources - https://github.com/ellisonleao/magictools
 - List of Web Business Models - https://gist.github.com/ndarville/4295324
+- Big list of d3.js examples - http://christopheviau.com/d3list/
+- 319 useful Twitter Bootstrap resources - http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
 
 ## Other lists of lists
 
