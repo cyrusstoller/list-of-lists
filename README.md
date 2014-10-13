@@ -46,6 +46,7 @@ A meta list of lists of useful open source projects and developer tools
 
 - https://github.com/asciimoo/ListOfGithubLists/
 - https://github.com/jnv/lists
+- https://github.com/leereilly/games
 
 ## MISC
 
