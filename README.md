@@ -41,6 +41,7 @@ A meta list of lists of useful open source projects and developer tools
 - 319 useful Twitter Bootstrap resources - http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
 - A curated list of amazingly awesome awesomeness - https://github.com/bayandin/awesome-awesomeness
 - Markdown resources - https://github.com/rhythmus/markdown-resources
+- List of React tools, resources, videos and shiny things - https://github.com/enaqx/awesome-react
 
 ## Other lists of lists
 
