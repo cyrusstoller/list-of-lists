@@ -42,6 +42,7 @@ A meta list of lists of useful open source projects and developer tools
 - A curated list of amazingly awesome awesomeness - https://github.com/bayandin/awesome-awesomeness
 - Markdown resources - https://github.com/rhythmus/markdown-resources
 - List of React tools, resources, videos and shiny things - https://github.com/enaqx/awesome-react
+- List of awesome CS courses - https://github.com/prakhar1989/awesome-courses
 
 ## Other lists of lists
 
