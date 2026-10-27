@@ -36,6 +36,7 @@ A meta list of lists of useful open source projects and developer tools
 - List of CS papers: https://github.com/papers-we-love/papers-we-love
 - Must-watch videos about javascript - https://github.com/bolshchikov/js-must-watch
 - List of Game Development resources - https://github.com/ellisonleao/magictools
+- List of AI game-dev tool pricing & commercial-use terms - https://respawnstack.com
 - List of Web Business Models - https://gist.github.com/ndarville/4295324
 - Big list of d3.js examples - http://christopheviau.com/d3list/
 - 319 useful Twitter Bootstrap resources - http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources
